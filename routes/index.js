@@ -23,6 +23,15 @@ router.put("/api/workouts/:id", async (req, res) => {
     }
 });
 
+router.post("/api/workouts", async (req, res) => {
+    try {
+        const workouts = await Workout.create(req.body);
+        res.status(500).json(workouts);
+    }
+    catch (err) {
+        res.status(500).json(err);
+    }
+});
 
 
 module.exports = router;
