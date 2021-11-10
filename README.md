@@ -49,6 +49,4 @@ WHEN I click dashboard, I view the total duration of each workout from the past 
 <img align="middle" src="./public/assets/images/js.jpg" alt="Javascript" width="10%"/>&nbsp; &nbsp; &nbsp; 
 
 ### Back End
-<img align="middle" src="./public/assets/images/nodejs.png" alt="Nodejs" width="20%"/>
-<img align="middle" src="./public/assets/images/expressjs.png" alt="Express" width="20%"/>
-<img align="middle" src="./public/assets/images/mongo.png" alt="Mongo" width="25%"/>
+<img align="middle" src="./public/assets/images/nodejs.png" alt="Nodejs" width="20%"/> <img align="middle" src="./public/assets/images/expressjs.png" alt="Express" width="20%"/> <img align="middle" src="./public/assets/images/mongo.png" alt="Mongo" width="25%"/>
