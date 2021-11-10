@@ -21,6 +21,7 @@ Writing about tech can be just as important as making it. Developers spend plent
 
 ## Preview
 <img src="./public/assets/images/screenshot.png" alt="Web Page" width="100%">
+<img src="./public/assets/images/charts.png" alt="Web Page" width="100%">
 
 
 ## User Story
@@ -41,12 +42,13 @@ WHEN I click dashboard, I view the total duration of each workout from the past 
 ```
 
 
-<!-- ## Technologies
+## Technologies
 ### Front End
 <img align="middle" src="./public/assets/images/html_css.png" alt="HTML5 and CSS" width="25%"/>&nbsp; &nbsp;
-<img align="middle" src="./public/assets/images/bootstrap.png" alt="Bulma" width="12%"/>&nbsp; &nbsp; &nbsp; 
-<img align="middle" src="./public/assets/images/bootstrap.png" alt="Handlebars" width="12%"/>&nbsp; &nbsp; &nbsp; 
+<img align="middle" src="./public/assets/images/semantic-ui.png" alt="Semantic UI" width="12%"/>&nbsp; &nbsp; &nbsp; 
 <img align="middle" src="./public/assets/images/js.jpg" alt="Javascript" width="10%"/>&nbsp; &nbsp; &nbsp; 
+
 ### Back End
 <img align="middle" src="./public/assets/images/nodejs.png" alt="Nodejs" width="20%"/>
-<img align="middle" src="./public/assets/images/express.png" alt="Express" width="20%"/> -->
+<img align="middle" src="./public/assets/images/expressjs.png" alt="Express" width="20%"/>
+<img align="middle" src="./public/assets/images/mongo.png" alt="Mongo" width="25%"/>
