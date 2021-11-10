@@ -29,9 +29,12 @@ const WorkoutSchema = new Schema({
         min: 0
     },
     duration: {
-        type: Number,    
-        default: false,  
+        type: Number,     
         min: 0  
+    },
+    distance: {
+        type: Number,
+        min: 0
     },
     date_created: {
         type: Date,
